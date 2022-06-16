@@ -1,0 +1,50 @@
+"a" = (/turf/grass,/area)
+"b" = (/turf/stone,/area)
+"c" = (/turf/carpet,/area)
+"d" = (/obj,/turf/carpet,/area)
+"e" = (/turf/tree,/area)
+"f" = (/turf/sidewalk,/area)
+"g" = (/mob/Shopkeeper,/turf/grass,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaeeeeeeeeeeeeeeeeaaaaaaaaaaaaaaaaaa
+aaaaaebbbbbbbbbbbbbbbbeaaaaaaaaaaaaaaaaa
+aaaaaebccccccccccccccbeaaaaaaaaaaaaaaaaa
+aaaaaebcccdccccccccccbeaaaaaaaaaaffaaaaa
+aaaaaebccccccccccccccbeaaaaaaaaaaffaaaaa
+aaaaaebccccccccccccccbeaaaaaaaaaaffaaaaa
+aaaaaebccccccccccccccbeaaaaaaaaaaffaaaaa
+aaaaaebccccccccccccccbebgabaaaaaaffaaaaa
+aaaaaebccccccccccccccbeabbaaaaaaaffaaaaa
+aaaaaebbbbbbccbbbbbbbbeaffaaaaaaaffaaaaa
+aaaaaaeeeeeeffeeeeeeeeaaffaaaaaaaffaaaaa
+aaaaaaaaaaaaffaaaaaaaaafffaaaaaaaffaaaaa
+aaaaaaaaaaaaffaaaaaaaafffaaaaaaaaffaaaaa
+aaaaaaaaaaaafffeeeeeeeffeeeeeeeefffaaaaa
+aaaaaaaaaaaaafffffffffffffffffffffaaaaaa
+aaaaaaaaaaaaaaffffffffaafffffffffaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

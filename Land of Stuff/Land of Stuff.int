@@ -1,12 +1,20 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1655359619
-DIR: art surfaces 
+LAST_COMPILE_TIME: 1655410022
+PACKAGE_RSC_NAME: D:\LOS_remake\Land of Stuff\Land of Stuff_rsc.zip
+DIR: art backup surfaces 
 AUTO_FILE_DIR: ON
+PACKAGE_DMB_INFO: 
 MAP_ICON_TYPE: 0
+PACKAGE_DME_NAME: D:\LOS_remake\Land of Stuff\Land of Stuff_src.zip
 LAST_COMPILE_VERSION: 514.1584
-WINDOW: main.dm;art\player.dmi;art\surfaces.dmi;surfaces\surfaces.dm;Main.dmm
+PACKAGE_DME_START: 
+PACKAGE_TYPE: 0
+PACKAGE_DME_INFO: 
+WINDOW: main.dm;art\surfaces.dmi;Main.dmm;Land of Stuff.dme;art\npc.dmi;art\player.dmi
 FILE: main.dm
+PACKAGE_DME_DEMO: 
+PACKAGE_DMB_NAME: D:\LosRelease\Land of Stuff.zip
 */
 // END_INTERNALS
