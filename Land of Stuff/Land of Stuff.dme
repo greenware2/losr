@@ -16,6 +16,7 @@
 // BEGIN_INCLUDE
 #include "main.dm"
 #include "Main.dmm"
+#include "npc\npc.dm"
 #include "surfaces\surfaces.dm"
 // END_INCLUDE
 

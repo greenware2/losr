@@ -16,3 +16,8 @@ turf
 	sidewalk
 		icon = 'surfaces.dmi'
 		icon_state = "sidewalk"
+		luminosity = 1
+	house
+		icon = 'surfaces.dmi'
+		icon_state = "house"
+		density = 0
