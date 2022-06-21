@@ -17,7 +17,7 @@ mob
 				var dlg = input("What would you like to buy?", "Shop", null) in shop
 				currency -= 2
 				usr << "You bought [dlg] for $2. You now have $[currency]."
-				inventory.Add(dlg)
+				usr.inventory.Add(dlg)
 		The_Thing
 			icon = 'npc.dmi'
 			icon_state = "thing"
